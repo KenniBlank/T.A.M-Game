@@ -1,5 +1,10 @@
 # TAM - 2D Platformer Game Documentation
 
+## Presentation File For The Game: https://docs.google.com/presentation/d/1-OmbO7h5lfAwxp699MOJ1wx5m1_1lz6UeceoMFlxkhg/edit?usp=sharing
+
+## GamePlay Video: https://www.youtube.com/watch?v=2o161uFWWC4    
+	Blurry Video Due to Screen Recorder  
+
 ## Overview
 
 This 2D platformer game features pixelated graphics and places the player in a vibrant, dynamic fantasy world. The primary character is a melee fighter, with plans to introduce ranged and tank characters in future updates. The game involves navigating through levels filled with platforms, enemies, and various obstacles. The gameplay experience is enhanced by a parallax background that creates a sense of depth and a moving camera that tracks the player's movement.
@@ -61,6 +66,7 @@ This 2D platformer game features pixelated graphics and places the player in a v
 
 **Development Team**
 - Made by Biraj Tiwari and Bishal Tiwari
+- LinkedIn: https://www.linkedin.com/in/birajtiwari/ https://www.linkedin.com/in/bishaltwr/  
 
 **Assets**
 - Graphics:
