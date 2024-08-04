@@ -68,7 +68,9 @@ This 2D platformer game features pixelated graphics and places the player in a v
 
 **Development Team**
 - Made by Biraj Tiwari and Bishal Tiwari
-- LinkedIn: https://www.linkedin.com/in/birajtiwari/ https://www.linkedin.com/in/bishaltwr/  
+- LinkedIn:  
+	https://www.linkedin.com/in/birajtiwari/   
+	https://www.linkedin.com/in/bishaltwr/  
 
 **Assets**
 - Graphics:
