@@ -1,9 +1,11 @@
 # TAM - 2D Platformer Game Documentation
 
-## Presentation File For The Game: https://docs.google.com/presentation/d/1-OmbO7h5lfAwxp699MOJ1wx5m1_1lz6UeceoMFlxkhg/edit?usp=sharing
+## Presentation File For The Game: 
+- https://docs.google.com/presentation/d/1-OmbO7h5lfAwxp699MOJ1wx5m1_1lz6UeceoMFlxkhg/edit?usp=sharing
 
-## GamePlay Video: https://www.youtube.com/watch?v=2o161uFWWC4    
-	Blurry Video Due to Screen Recorder  
+## GamePlay Video: 
+- https://www.youtube.com/watch?v=2o161uFWWC4  
+- Blurry Video Due to Screen Recorder  
 
 ## Overview
 
