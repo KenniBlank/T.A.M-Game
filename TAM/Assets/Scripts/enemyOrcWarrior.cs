@@ -76,7 +76,7 @@ public class enemyOrcWarrior : MonoBehaviour
 
         if (attackTimer > 1.5f && playerStatHandler.enabled)
         {
-            if (distanceToPlayer <= range && (transform.position.y - player.position.y <= range))
+            if (distanceToPlayer <= range && ((transform.position.y - player.position.y) <= range))
             {
                 anim.SetTrigger("attack");
                 anim.SetBool("walk", false);
